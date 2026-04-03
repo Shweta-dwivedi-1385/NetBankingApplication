@@ -103,7 +103,7 @@ Architecture
 -----------------------------
 Project Structure
 -----------------------------
-
+```
 NetBankingApplication
 │
 ├── lib
@@ -116,7 +116,7 @@ NetBankingApplication
 │   └── BankClient.java          (Client GUI)
 │
 └── README.md
-
+```
 ------------------------------------------
 Database Setup 
 ------------------------------------------
